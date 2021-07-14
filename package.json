@@ -1,0 +1,19 @@
+{
+  "name": "queue",
+  "version": "1.0.0",
+  "description": "JS implementation of Data-Structure queue 💙",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "queue"
+  ],
+  "author": "shree",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.5"
+  }
+}
